@@ -19,3 +19,7 @@ func _process(delta):
 	
 	velocity.normalized()
 	velocity = Vector2.ZERO
+
+
+func _on_body_entered(body):
+	hide()
