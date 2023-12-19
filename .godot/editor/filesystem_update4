@@ -1,5 +1,4 @@
 res://world.tscn
 res://player.tscn
-res://CollisionShape2D.gd
-res://player.gd
 res://enemy.tscn
+res://player.gd
